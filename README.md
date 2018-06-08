@@ -10,6 +10,7 @@
       ciencia,animales...) pueden acceder a informacion muy interesante!!
     </p>
     
+    <img src="https://www.pinterest.cl/pin/28569778864271289/">
     <a href="http://www.astromia.com/universo/eluniverso.htm">El universo mas alla</a>
   </body>
 </html>
