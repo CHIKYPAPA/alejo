@@ -17,7 +17,7 @@
     <a href="https://colombia.as.com/tag/futbol/a/">Todo sobre futbol!</a>
     </div>
     <div>
-    <a href="https://www.elnuevodia.com/entretenimiento/musica/">Todo lo que debes saber de Musica</a>
+    <a href="https://www.elnuevodia.com/entretenimiento/musica/">Todo lo que debes saber de Musica!</a>
     </div>
   </body>
 </html>
