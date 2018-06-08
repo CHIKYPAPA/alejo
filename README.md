@@ -13,7 +13,6 @@
     <div>
     <a href="http://www.astromia.com/universo/eluniverso.htm">El universo mas alla</a>
     </div>
-    
     <div>
     <a href="https://colombia.as.com/tag/futbol/a/">Todo sobre futbol!</a>
     </div>
