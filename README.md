@@ -23,7 +23,7 @@
       <a href="https://www.elespectador.com/noticias/ciencia">Lo mejor de la ciencia</a>
       </div>
       <div>
-      <a href="http://www.nationalgeographic.com.es/animales">La belleza animal</a>
+      <a href="http://www.nationalgeographic.com.es/animales">La belleza animal!!</a>
       </div>
    <p>espero que les haya gustado mucho estas secciones espero seguir mejorandolas a su gusto y encontrar
       las mejores paginas de temas que les interesen... pueden enviar sugerencias al correo
