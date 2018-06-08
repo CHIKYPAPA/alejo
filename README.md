@@ -11,6 +11,7 @@
     </p>
     
     <div>
+    <img src="https://www.pinterest.cl/pin/28569778864271289/">
     <a href="http://www.astromia.com/universo/eluniverso.htm">El universo mas alla</a>
     </div>
     <div>
