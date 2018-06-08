@@ -9,6 +9,7 @@
       solo con dar clic en uno de estos links que disponemos (Universo,futbol,musica,
       ciencia,animales...) pueden acceder a informacion muy interesante!!
     </p>
+    
     <a href="http://www.astromia.com/universo/eluniverso.htm">El universo mas alla</a>
   </body>
 </html>
